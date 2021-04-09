@@ -1,0 +1,22 @@
+{
+  "name": "RNCallKeep",
+  "version": "4.0.1",
+  "summary": "iOS 10 CallKit and Android ConnectionService Framework For React Native",
+  "homepage": "https://github.com/react-native-webrtc/react-native-callkeep#readme",
+  "license": "ISC",
+  "authors": "See AUTHORS file",
+  "source": {
+    "git": "git+https://github.com/react-native-webrtc/react-native-callkeep.git",
+    "tag": "v4.0.1"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ios/RNCallKeep/*.{h,m}",
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}
