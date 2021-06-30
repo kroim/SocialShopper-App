@@ -120,7 +120,7 @@
     "react-native-vector-icons": "^7.1.0",
     "react-native-video": "^5.1.0-alpha8",
     "react-native-view-more-text": "^2.1.0",
-    "react-native-webview": "^10.8.3",
+    "react-native-webview": "^11.0.0",
     "react-redux": "^7.1.1",
     "redux": "^4.0.4",
     "redux-logger": "^3.0.6",
